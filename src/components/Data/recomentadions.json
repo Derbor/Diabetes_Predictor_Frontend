@@ -1,0 +1,22 @@
+{
+    "hight": [
+        "Mantén una dieta equilibrada",
+        "Realiza ejercicio regularmente",
+        "Evita el consumo de azúcares refinados",
+        "Controla tus niveles de glucosa"
+    ],
+    "medium": [
+        "Duerme al menos 7 horas por noche",
+        "Reduce el consumo de alimentos procesados",
+        "Evita el exceso de cafeína",
+        "Realiza chequeos médicos anuales",
+        "Mantén un horario de comidas regular"
+    ],
+    "low": [
+        "Mantente hidratado tomando suficiente agua",
+        "Incorpora más frutas y verduras en tu dieta",
+        "Practica técnicas de relajación como meditación o respiración profunda",
+        "Realiza pausas activas si trabajas muchas horas sentado",
+        "Limita el consumo de bebidas alcohólicas"
+    ]
+}
