@@ -87,7 +87,7 @@ const Login = () => {
       </div>
 
       <div className={styles.loginContainer}>
-        <h1 className={styles.title}>Bienvenido a "nombre de la aplicacion"</h1>
+        <h1 className={styles.title}>Bienvenido a "Diabetes AI"</h1>
         {error && <p className={styles.errorText}>{error}</p>}
         <form onSubmit={handleSubmit}>
           <label>
